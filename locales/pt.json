@@ -1,0 +1,14 @@
+{
+  "welcome": "Bem-vindo ao nosso aplicativo!",
+  "login": "Login",
+  "register": "Registrar",
+  "name": "Nome",
+  "cpf": "CPF",
+  "age": "Idade",
+  "password": "Senha",
+  "fillAllFields": "Por favor, preencha todos os campos.",
+  "username": "Nome de Usuário",
+  "aboutDescription": "A cidade do Recife tem um grande potencial para crescer quando se fala de turismo, já que a cidade oferece uma gama de variedades de atrações e pontos turísticos aos visitantes. Visando tal crescimento, decidimos criar um aplicativo/site onde forneceria pontos turísticos, sendo eles públicos ou privados. Onde não havia as mesmas formas de interação com os usuários, em que eles fariam avaliação dos lugares e também dicas, informando especializados dos locais, fazendo com que a pessoa que está utilizando o aplicativo fique informada sobre aquele local.",
+  "aboutTitle": "Sobre",
+  "dontHaveAccount": "Não tem uma conta?"
+}

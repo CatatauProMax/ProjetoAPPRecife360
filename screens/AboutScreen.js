@@ -20,6 +20,12 @@ const AboutScreen = () => {
         <Text style={styles.member}>Hugo Duarte - 01635828</Text>
         <Text style={styles.member}>Caio Gomes Ferrão D'Avila - 01600639</Text>
       </View>
+      <Text style={styles.link}>
+        {t('Link do repositorio:')}{' '}
+        <Text style={{ color: 'blue' }} onPress={() => Linking.openURL('https://github.com/CatatauProMax/ProjetoAPPRecife360')}>
+          https://github.com/CatatauProMax/ProjetoAPPRecife360
+        </Text>
+      </Text>
     </View>
   );
 };
@@ -47,6 +53,10 @@ const styles = StyleSheet.create({
     fontSize: 16,
     marginBottom: 5,
     textAlign: 'left',
+  },
+  link: {
+    marginTop: 20,
+    textAlign: 'center',
   },
 });
 
